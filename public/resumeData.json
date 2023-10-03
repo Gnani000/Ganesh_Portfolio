@@ -1,0 +1,115 @@
+{
+  "main": {
+    "name": "GANESH BANDA",
+    "occupation": "Interior Designer",
+    "description": "Interior Design by Day, I have expertise in Residential Designing.",
+    "image": "ganesh_pic",
+    "bio": "Interior Designer. I have expertise on Residential Designing.",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "raagavganesh001@gmail.com",
+    "phone": "+91 83280 22294",
+    "address": {
+      "street": "Madhapur",
+      "city": "Hyderabad",
+      "state": "India",
+      "zip": "500081"
+    },
+    
+    "resumedownload": "Ganesh Resume.pdf",
+    "social": [
+     
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/banda-ganesh-b4817121b",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ur___in/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "SRM IST Chennai",
+        "degree": "Bachelor Degree in Mechanical Engineering",
+        "graduated": "May 2022",
+        "description": ""
+      },
+      {
+        "school": "Hamstech College of Creative Education",
+        "degree": "Interior Designing",
+        "graduated": "2023",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Vajragiri Interiors",
+        "title": "Interior Designer",
+        "years": "Mar 2023 - Sep 2023",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "AutoCad",
+        "level": "90%"
+      },
+      {
+        "name": "Sketchup",
+        "level": "90%"  
+      },
+      {
+        "name": "D5 Render",
+        "level": "80%"  
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Minimalististic Hall",
+        "image": "first.png" 
+      },
+      {
+        "title": "Minimalistic Hall2",
+        "image": "second.png" 
+      },
+      {
+        "title": "Modular kitchen1",
+        "image": "third.png" 
+      },
+      {
+        "title": "Contemporary Hall 1",
+        "image": "fourth.png" 
+      },
+      {
+        "title": "Contemporary hall 2",
+        "image": "fifth.png" 
+      },
+      {
+        "title": "Contemporary Dinning space",
+        "image": "six.png" 
+      },
+      {
+        "title": "Minimal Drawing room",
+        "image": "seven.png" 
+      },
+      {
+        "title": "Contemporary Bedroom",
+        "image": "eight.png" 
+      },
+      {
+        "title": "Modular Kitechen 2",
+        "image": "nine.png" 
+      },
+      {
+        "title": "Modular Kitchen 3",
+        "image": "ten.png" 
+      }
+    ]
+  }}
